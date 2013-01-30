@@ -2,6 +2,8 @@
 
 A port of png2ico in JavaScript.
 
+***THIS IS A TENTATIVE PORT -- DEVELOPMENT HAS NOT YET BEGUN!***
+
 ## Getting Started
 Install the module with: `npm install png2ico`
 
@@ -23,5 +25,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 _(Nothing yet)_
 
 ## License
-Copyright (c) 2013 Todd Wolfson  
+Copyright (c) 2013 Todd Wolfson
 Licensed under the MIT license.
